@@ -27,7 +27,7 @@ Installation
     Cloning the Repository:
     Bash
 
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/ndynoahs/my-weather-app.git
 
 Running the App
 npm start
