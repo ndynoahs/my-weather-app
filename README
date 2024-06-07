@@ -1,0 +1,41 @@
+Title
+
+    My Weather App - A React Native App for Weather Information
+
+Description
+
+    A user-friendly React Native application that provides real-time and forecast weather information for various locations.
+
+Features
+
+    Displays current weather conditions (temperature, humidity, wind speed, etc.)
+    Allows users to search for weather in different locations
+
+Technologies Used:
+
+    React Native (v0.74.1)
+    Expo SDK
+    react-native-vector-icons
+    react-native-dotenv
+
+Installation
+
+    Prerequisites:
+        Node.js and npm (or yarn) installed on your system.
+        An Expo account (if using Expo)
+
+    Cloning the Repository:
+    Bash
+
+    git clone https://github.com/your-username/weather-app.git
+
+Running the App
+npm start
+
+Environment Variables
+
+    The app uses environment variables for sensitive information like API keys.
+
+Author
+
+    Kingsley Ibe
